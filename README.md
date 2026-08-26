@@ -1,23 +1,31 @@
-# Hi, I'm Pratyush 👋
+# Hi, I'm Pratyush Mishra
 
-Backend & mobile developer focused on real-time systems, media streaming, and distributed architectures.
-Currently a CS undergrad at CHRIST University, Bengaluru — and a working developer since Year 1.
+Backend-leaning full stack engineer and **Tech Lead at CAPS**, CHRIST University. I ship production systems — LMS streaming, real-time forums, LLM automation, and an on-prem Kubernetes PaaS with multi-language SDKs.
 
-## 🛠 Tech Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+**Site:** [pratyushes.dev](https://pratyushes.dev) · **Email:** mpratyush54@gmail.com · **LinkedIn:** [pratyushm07](https://www.linkedin.com/in/pratyushm07/)
 
-## 🔨 What I've Built
-- **ClassStream** — Live + on-demand lecture platform with MPEG-DASH, DRM (CENC ClearKey), RTMP ingest, WebSocket chat
-- **AI Proctoring System** — Distributed mobile sensing + computer vision pipeline for exam monitoring
-- **CAPS University Systems** — Production LMS backend, real-time forum, ChatGPT integration service (on-prem, Prometheus + Grafana)
-- **Ambue Pharmaceutical Platform** — Role-based reporting platform, deployed on AWS EC2, live for 1+ year
+## What I focus on
 
-## 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyushm07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mpratyush54@gmail.com)
+- Node.js / TypeScript backends, Redis, MongoDB, PostgreSQL
+- Real-time systems (WebSockets, SSE) and media (DASH, DRM, RTMP)
+- Kubernetes, Docker, GitOps, Prometheus / Grafana / Loki
+- Angular, React, Flutter / React Native when the product needs a client
+
+## Featured work
+
+| Project | What it is |
+|---|---|
+| **[Platform](https://github.com/Mpratyush54/server-automation)** | Internal PaaS — K8s + SDKs for Node, Python, Angular, React |
+| **[ClassStream](https://github.com/Mpratyush54/classstream-backend)** | Production LMS with ClearKey DRM + live streaming — [school.pratyushes.dev](https://school.pratyushes.dev) |
+| **[DayFlow](https://github.com/Mpratyush54/dayflow)** | HRMS — attendance PWA offline queue, SSE live presence, leave & payroll |
+| **[Phone Proctor](https://github.com/Mpratyush54/Phone-Proctor)** | Mobile CV + sensor-fusion exam integrity backend |
+| **Ambue** | Pharma RBAC reporting platform — ~1 year on AWS EC2 |
+| **CAPS Automation** | Club ops PWA — [worklog.capskengeri.com](https://worklog.capskengeri.com) |
+
+## Stack
+
+`Node.js` `TypeScript` `Express` `Angular` `React` `Python` `MongoDB` `MySQL` `PostgreSQL` `Redis` `Docker` `Kubernetes` `Prometheus` `Grafana` `Loki`
+
+---
+
+CS undergrad @ CHRIST University, Bengaluru (GPA 3.51/4.0, expected May 2029). Open to SDE / backend internship conversations for Summer–Fall 2027.
